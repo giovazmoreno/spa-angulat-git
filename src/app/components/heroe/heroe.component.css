@@ -1,0 +1,8 @@
+.logo-small{
+    width: 20%;
+}
+
+.no-gutters>.col, .no-gutters>[class*=col-] {
+    padding-right: 30px;
+    padding-left: 30px;
+}
