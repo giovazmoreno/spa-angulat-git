@@ -20,7 +20,7 @@ For this proyect were used concepts like:
 
 ***
 
-![Logo angular](./src/app/assets/img/Angular-UI-Bootstrap.png) ![Logo Udemy]()
+![Logo angular](https://iconscout.com/icon/bootstrap-7) + ![Logo bootstrap](https://iconscout.com/icon/bootstrap-7) ![Logo Udemy]()
 
 
 >This app was made from an online course of the Udemy platform by the theacher Fernando Herrera.
