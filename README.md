@@ -23,7 +23,7 @@ For this proyect were used concepts like:
 ![Logo angular](https://cdn.iconscout.com/icon/free/png-256/angular-3-226070.png) ![Logo bootstrap](https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png) ![Logo Udemy](https://pbs.twimg.com/profile_images/1251141687000264704/U6aXex47_400x400.png)
 
 
->This app was made from an online course of the Udemy platform by the theacher Fernando Herrera.
+>This app was made as a proyect of a online course of the Udemy platform.
 
 
 
