@@ -20,6 +20,7 @@ For this proyect were used concepts like:
 
 ***
 
+![Logo GITHub](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 ![Logo angular](https://iconscout.com/icon/bootstrap-7) + ![Logo bootstrap](https://iconscout.com/icon/bootstrap-7) ![Logo Udemy]()
 
 
