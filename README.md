@@ -2,7 +2,7 @@
 
 ### About the proyect
 
-This is a single-page application that consult from a json file a list of heroes of comics. This app allow know a brief description of the heroe, the date of its first apparition, it´s main power, the production house than belongs to and an image of the character.
+This is a single-page application that consult from a json file a list of heroes of comics. This app lets know a brief description of the heroe, the date of its first apparition, it´s main power, the production house than belongs to and an image of the character.
 Also its possible to search the heroes that match with the search criteria that applies.
 
 ***
